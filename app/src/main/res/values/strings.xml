@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Cari user GitHub di sini</string>
+    <string name="followers">%d Followers</string>
+    <string name="following">%d Following</string>
+    <string name="list_follower_and_following">List Follower and Following</string>
+    <string name="content_tab_followers">Followers</string>
+    <string name="content_tab_following">Following</string>
+    <string name="favorite">Favorite</string>
+    <string name="added_to_favorite">Added to favorite</string>
+    <string name="deleted_from_favorite">Deleted from favorite</string>
+    <string name="setting">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="gambar_profile">Gambar Profile</string>
+</resources>
